@@ -384,7 +384,7 @@ In the event of termination under Sections 5.1 or 5.2 above, all end
 This Source Code Form is subject to the terms of the Open Development
 Public License, v1.0. The full text of the ODPL should be included with
 this file, in a file named “ODPLv1”. If it was not, you can obtain a
-copy at https://www.github.com/apogeezenith/odpl/
+copy at https://github.com/apogeezenith/odpl/blob/master/ODPLv1
 ```
 This will permit You to include individual files from Covered Software within other repositories or software projects, even if that other repository or software project is licensed under different terms. If You do choose to include parts of the Covered Software within other software projects, You are still obligated to the terms of this License for the Covered Software within Your other software project.
 
